@@ -1,7 +1,5 @@
-## Frappe Vue Ssr
+# Frappe Vue SSR
 
-Frappe App that does Vue SSR
+This is an example app to make Vue SSR work with Frappe Backend
 
-#### License
-
-mit
+Currently work in progress.
