@@ -6,3 +6,5 @@ tags
 node_modules
 __pycache__
 frappe_vue_ssr/public/frontend
+frappe_vue_ssr/public/ssr
+.ssr_cache

@@ -55,6 +55,8 @@ app_license = "mit"
 # automatically create page for each record of this doctype
 # website_generators = ["Web Page"]
 
+page_renderer = ["frappe_vue_ssr.vue_renderer.vue_renderer.VueRenderer"]
+
 # Jinja
 # ----------
 
@@ -226,4 +228,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
